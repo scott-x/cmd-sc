@@ -1,6 +1,6 @@
 {
   "name": "cmd-sc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cmd in terminal for node.js",
   "bin": {
     "sc": "./bin/index.js"
